@@ -1,7 +1,7 @@
-# Testes unitários em JAVA: Domine JUnit, Mockito e TDD
+# Curso Testes unitários em JAVA: Domine JUnit, Mockito e TDD
 
-### Junit;
-### Databuilders;
+### Junit 4;
+### Padrão Databuilders;
 ### Analise de Cobertura;
 ### Mocks;
 ### PowerMock;
